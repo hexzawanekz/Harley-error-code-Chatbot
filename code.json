@@ -1,0 +1,2842 @@
+[
+    {
+        "Phrase": "B110300",
+        "Response": "LHCM internal fault"
+    },
+    {
+        "Phrase": "B112011",
+        "Response": "Cruise set switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B112012",
+        "Response": "Cruise set switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112013",
+        "Response": "Cruise set switch circuit open"
+    },
+    {
+        "Phrase": "B112111",
+        "Response": "Cruise resume switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B112112",
+        "Response": "Cruise resume switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112113",
+        "Response": "Cruise resume switch circuit open"
+    },
+    {
+        "Phrase": "B112211",
+        "Response": "Cruise on switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B112212",
+        "Response": "Cruise on switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112213",
+        "Response": "Cruise on switch circuit open"
+    },
+    {
+        "Phrase": "B112311",
+        "Response": "Cruise off switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B112312",
+        "Response": "Cruise off switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112313",
+        "Response": "Cruise off switch circuit open"
+    },
+    {
+        "Phrase": "B112411",
+        "Response": "Left turn switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B112412",
+        "Response": "Left turn switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112413",
+        "Response": "Left turn switch circuit open"
+    },
+    {
+        "Phrase": "B112511",
+        "Response": "Right turn switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B112512",
+        "Response": "Right turn switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112513",
+        "Response": "Right turn switch circuit open"
+    },
+    {
+        "Phrase": "B112613",
+        "Response": "Clutch switch circuit open"
+    },
+    {
+        "Phrase": "B112712",
+        "Response": "Clutch lever applied switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112812",
+        "Response": "Clutch lever released switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112911",
+        "Response": "Turn switch cancel circuit shorted to ground"
+    },
+    {
+        "Phrase": "B112912",
+        "Response": "Turn switch cancel circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112913",
+        "Response": "Turn switch cancel circuit open"
+    },
+    {
+        "Phrase": "B112E11",
+        "Response": "High beam switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B112E12",
+        "Response": "High beam switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112E13",
+        "Response": "High beam switch circuit open"
+    },
+    {
+        "Phrase": "B112F11",
+        "Response": "FTP circuit shorted to ground"
+    },
+    {
+        "Phrase": "B112F12",
+        "Response": "FTP circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B112F13",
+        "Response": "FTP circuit open"
+    },
+    {
+        "Phrase": "B115300",
+        "Response": "RHCM internal fault"
+    },
+    {
+        "Phrase": "B116000",
+        "Response": "RHCM/LHCM internal fault"
+    },
+    {
+        "Phrase": "B116508",
+        "Response": "RHCM Off switch invalid data received"
+    },
+    {
+        "Phrase": "B116509",
+        "Response": "Stop switch fault"
+    },
+    {
+        "Phrase": "B116511",
+        "Response": "Stop switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B116512",
+        "Response": "Stop switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B116513",
+        "Response": "Stop switch circuit open"
+    },
+    {
+        "Phrase": "B116608",
+        "Response": "RHCM run switch invalid data received"
+    },
+    {
+        "Phrase": "B116609",
+        "Response": "Run switch fault"
+    },
+    {
+        "Phrase": "B116611",
+        "Response": "Run switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B116612",
+        "Response": "Run switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B116613",
+        "Response": "Run switch circuit open"
+    },
+    {
+        "Phrase": "B116711",
+        "Response": "Start switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B116712",
+        "Response": "Start switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B116713",
+        "Response": "Start switch circuit open"
+    },
+    {
+        "Phrase": "B116811",
+        "Response": "Ride mode switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B116812",
+        "Response": "Ride mode switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B116813",
+        "Response": "Ride mode switch circuit open"
+    },
+    {
+        "Phrase": "B116A11",
+        "Response": "Hazard switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B116A12",
+        "Response": "Hazard switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B116A13",
+        "Response": "Hazard switch circuit open"
+    },
+    {
+        "Phrase": "B116B11",
+        "Response": "TC switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B116B12",
+        "Response": "TC switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B116B13",
+        "Response": "TC switch circuit open"
+    },
+    {
+        "Phrase": "B116C11",
+        "Response": "Front brake applied switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B116C12",
+        "Response": "Front brake applied switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B116C13",
+        "Response": "Front brake applied switch circuit open"
+    },
+    {
+        "Phrase": "B116D11",
+        "Response": "Front brake released switch circuit shorted to ground"
+    },
+    {
+        "Phrase": "B116D12",
+        "Response": "Front brake released switch circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B116D13",
+        "Response": "Front brake released switch circuit open"
+    },
+    {
+        "Phrase": "B11AA92",
+        "Response": "Clutch switch performance"
+    },
+    {
+        "Phrase": "B11A292",
+        "Response": "High beam switch performance"
+    },
+    {
+        "Phrase": "B11A392",
+        "Response": "FTP switch performance"
+    },
+    {
+        "Phrase": "B11A492",
+        "Response": "Cruise set switch performance"
+    },
+    {
+        "Phrase": "B11A592",
+        "Response": "Cruise resume switch performance"
+    },
+    {
+        "Phrase": "B11A692",
+        "Response": "Cruise on switch performance"
+    },
+    {
+        "Phrase": "B11A792",
+        "Response": "Cruise off switch performance"
+    },
+    {
+        "Phrase": "B11A892",
+        "Response": "Left turn switch performance"
+    },
+    {
+        "Phrase": "B11A992",
+        "Response": "Right turn switch performance"
+    },
+    {
+        "Phrase": "B11AB92",
+        "Response": "Heated grip performance"
+    },
+    {
+        "Phrase": "B11B192",
+        "Response": "Stop switch performance"
+    },
+    {
+        "Phrase": "B11B292",
+        "Response": "Run switch performance"
+    },
+    {
+        "Phrase": "B11B392",
+        "Response": "Start switch performance"
+    },
+    {
+        "Phrase": "B11B492",
+        "Response": "Ride mode switch performance"
+    },
+    {
+        "Phrase": "B11B592",
+        "Response": "Spare/reserved switch performance"
+    },
+    {
+        "Phrase": "B11B692",
+        "Response": "Hazard switch performance"
+    },
+    {
+        "Phrase": "B11B792",
+        "Response": "TC switch performance"
+    },
+    {
+        "Phrase": "B11B892",
+        "Response": "VR switch performance"
+    },
+    {
+        "Phrase": "B11B992",
+        "Response": "Front brake switch performance"
+    },
+    {
+        "Phrase": "B11C011",
+        "Response": "Heated grip temperature sensor circuit shorted to ground"
+    },
+    {
+        "Phrase": "B11C013",
+        "Response": "Heated grip temperature sensor circuit open"
+    },
+    {
+        "Phrase": "B11C016",
+        "Response": "Heated grip temperature sensor circuit voltage below threshold"
+    },
+    {
+        "Phrase": "B11C017",
+        "Response": "Heated grip temperature sensor circuit voltage above threshold"
+    },
+    {
+        "Phrase": "B11C118",
+        "Response": "Heated grip circuit overloaded"
+    },
+    {
+        "Phrase": "B11C119",
+        "Response": "Heated grip circuit overloaded"
+    },
+    {
+        "Phrase": "B11C262",
+        "Response": "Heated grip status mismatch"
+    },
+    {
+        "Phrase": "B11C300",
+        "Response": "Heated grip over commanded temperature"
+    },
+    {
+        "Phrase": "B120000",
+        "Response": "Inst internal fault"
+    },
+    {
+        "Phrase": "B120100",
+        "Response": "Inst internal fault"
+    },
+    {
+        "Phrase": "B121041",
+        "Response": "Inst internal fault"
+    },
+    {
+        "Phrase": "B121141",
+        "Response": "Inst internal fault"
+    },
+    {
+        "Phrase": "B121241",
+        "Response": "Inst internal fault"
+    },
+    {
+        "Phrase": "B121304",
+        "Response": "Inst internal fault"
+    },
+    {
+        "Phrase": "B121400",
+        "Response": "Inst internal fault"
+    },
+    {
+        "Phrase": "B121447",
+        "Response": "Inst internal fault"
+    },
+    {
+        "Phrase": "B122000",
+        "Response": "Incoming ODO high"
+    },
+    {
+        "Phrase": "B122200",
+        "Response": "Vehicle configuration invalid"
+    },
+    {
+        "Phrase": "B122411",
+        "Response": "Battery telltale output circuit shorted to ground"
+    },
+    {
+        "Phrase": "B122413",
+        "Response": "Battery telltale output circuit open"
+    },
+    {
+        "Phrase": "B122511",
+        "Response": "Low fuel telltale output circuit shorted to ground"
+    },
+    {
+        "Phrase": "B122513",
+        "Response": "Low fuel telltale output circuit open"
+    },
+    {
+        "Phrase": "B122611",
+        "Response": "Low fuel telltale output circuit shorted to ground"
+    },
+    {
+        "Phrase": "B122613",
+        "Response": "Turn signal right telltale output circuit open"
+    },
+    {
+        "Phrase": "B122711",
+        "Response": "Turn signal left telltale output circuit shorted to ground"
+    },
+    {
+        "Phrase": "B122713",
+        "Response": "Turn signal left telltale output circuit open"
+    },
+    {
+        "Phrase": "B122811",
+        "Response": "FIL telltale output circuit shorted to ground"
+    },
+    {
+        "Phrase": "B122813",
+        "Response": "FIL telltale output circuit open"
+    },
+    {
+        "Phrase": "B122911",
+        "Response": "ABS telltale output circuit shorted to ground"
+    },
+    {
+        "Phrase": "B122913",
+        "Response": "ABS telltale output circuit open"
+    },
+    {
+        "Phrase": "B122A11",
+        "Response": "Traction control telltale output circuit shorted to ground"
+    },
+    {
+        "Phrase": "B122A13",
+        "Response": "Traction control telltale output circuit open"
+    },
+    {
+        "Phrase": "B13149E",
+        "Response": "LHCM VR PTT button stuck"
+    },
+    {
+        "Phrase": "B13159E",
+        "Response": "LHCM up button stuck"
+    },
+    {
+        "Phrase": "B13169E",
+        "Response": "LHCM left button stuck"
+    },
+    {
+        "Phrase": "B13179E",
+        "Response": "LHCM center button stuck"
+    },
+    {
+        "Phrase": "B13189E",
+        "Response": "LHCM right button stuck"
+    },
+    {
+        "Phrase": "B13199E",
+        "Response": "LHCM down button stuck"
+    },
+    {
+        "Phrase": "B13219E",
+        "Response": "RHCM up button stuck"
+    },
+    {
+        "Phrase": "B13229E",
+        "Response": "RHCM left button stuck"
+    },
+    {
+        "Phrase": "B13239E",
+        "Response": "RHCM center button stuck"
+    },
+    {
+        "Phrase": "B13249E",
+        "Response": "RHCM right button stuck"
+    },
+    {
+        "Phrase": "B13259E",
+        "Response": "RHCM down button stuck"
+    },
+    {
+        "Phrase": "B13719E",
+        "Response": "RHCM ride mode button stuck"
+    },
+    {
+        "Phrase": "B15A992",
+        "Response": "Front brake switch performance"
+    },
+    {
+        "Phrase": "B210011",
+        "Response": "System power 1 circuit shorted to ground"
+    },
+    {
+        "Phrase": "B210015",
+        "Response": "System power 1 circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B210019",
+        "Response": "System power 1 circuit overloaded"
+    },
+    {
+        "Phrase": "B211111",
+        "Response": "ACC circuit shorted to ground"
+    },
+    {
+        "Phrase": "B211112",
+        "Response": "ACC circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B211119",
+        "Response": "ACC circuit overloaded"
+    },
+    {
+        "Phrase": "B211611",
+        "Response": "Fuel pump circuit shorted to ground"
+    },
+    {
+        "Phrase": "B211615",
+        "Response": "Fuel pump circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B211619",
+        "Response": "Fuel pump circuit overloaded"
+    },
+    {
+        "Phrase": "B21164B",
+        "Response": "Fuel pump circuit over temperature"
+    },
+    {
+        "Phrase": "B212111",
+        "Response": "Starter circuit shorted to ground"
+    },
+    {
+        "Phrase": "B212115",
+        "Response": "Starter circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B212119",
+        "Response": "Starter circuit overloaded"
+    },
+    {
+        "Phrase": "B212511",
+        "Response": "Horn output circuit shorted to ground"
+    },
+    {
+        "Phrase": "B212515",
+        "Response": "Horn circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B212519",
+        "Response": "Horn circuit overloaded"
+    },
+    {
+        "Phrase": "B213111",
+        "Response": "High beam circuit shorted to ground"
+    },
+    {
+        "Phrase": "B213115",
+        "Response": "High beam circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B213119",
+        "Response": "High beam circuit overloaded"
+    },
+    {
+        "Phrase": "B213611",
+        "Response": "Low beam circuit shorted to ground"
+    },
+    {
+        "Phrase": "B213615",
+        "Response": "Low beam circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B213619",
+        "Response": "Low beam circuit overloaded"
+    },
+    {
+        "Phrase": "B214111",
+        "Response": "Turn signal left front circuit shorted to ground"
+    },
+    {
+        "Phrase": "B214115",
+        "Response": "Turn signal left front circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B214119",
+        "Response": "Turn signal left front circuit overloaded"
+    },
+    {
+        "Phrase": "B214611",
+        "Response": "Turn signal right front circuit shorted to ground"
+    },
+    {
+        "Phrase": "B214615",
+        "Response": "Turn signal right front circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B214619",
+        "Response": "Turn signal right front circuit overloaded"
+    },
+    {
+        "Phrase": "B215111",
+        "Response": "Turn signal left rear circuit shorted to ground"
+    },
+    {
+        "Phrase": "B215115",
+        "Response": "Turn signal left rear circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B215119",
+        "Response": "Turn signal left rear circuit overloaded"
+    },
+    {
+        "Phrase": "B215611",
+        "Response": "Turn signal right rear circuit shorted to ground"
+    },
+    {
+        "Phrase": "B215615",
+        "Response": "Turn signal right rear circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B215619",
+        "Response": "Turn signal right rear circuit overloaded"
+    },
+    {
+        "Phrase": "B216111",
+        "Response": "Brake lamp circuit shorted to ground"
+    },
+    {
+        "Phrase": "B216115",
+        "Response": "Brake lamp circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B216119",
+        "Response": "Brake lamp circuit overloaded"
+    },
+    {
+        "Phrase": "B216611",
+        "Response": "Running lamp circuit shorted to ground"
+    },
+    {
+        "Phrase": "B216615",
+        "Response": "Running lamp circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B216619",
+        "Response": "Running lamp circuit overloaded"
+    },
+    {
+        "Phrase": "B217011",
+        "Response": "System power 2 circuit shorted to ground"
+    },
+    {
+        "Phrase": "B217012",
+        "Response": "System power 2 circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B217019",
+        "Response": "System power 2 circuit overloaded"
+    },
+    {
+        "Phrase": "B217111",
+        "Response": "Wake up power circuit shorted to ground"
+    },
+    {
+        "Phrase": "B217115",
+        "Response": "Wake up power circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B217119",
+        "Response": "Wake up power circuit overloaded"
+    },
+    {
+        "Phrase": "B217211",
+        "Response": "Siren circuit shorted to ground"
+    },
+    {
+        "Phrase": "B217212",
+        "Response": "Siren circuit shorted to voltage"
+    },
+    {
+        "Phrase": "B217511",
+        "Response": "VVT power circuit shorted ground"
+    },
+    {
+        "Phrase": "B217519",
+        "Response": "VVT power circuit overloaded"
+    },
+    {
+        "Phrase": "B217613",
+        "Response": "Security antenna circuit open"
+    },
+    {
+        "Phrase": "B220611",
+        "Response": "Run/stop switch input circuit shorted to ground"
+    },
+    {
+        "Phrase": "B220615",
+        "Response": "Run/stop switch circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "B22509E",
+        "Response": "Clutch switch stuck on"
+    },
+    {
+        "Phrase": "B22519E",
+        "Response": "Horn switch stuck on"
+    },
+    {
+        "Phrase": "B22529E",
+        "Response": "High beam switch stuck on"
+    },
+    {
+        "Phrase": "B22539E",
+        "Response": "FTP switch stuck on"
+    },
+    {
+        "Phrase": "B225481",
+        "Response": "Left turn signal error"
+    },
+    {
+        "Phrase": "B22549E",
+        "Response": "Left turn switch stuck on"
+    },
+    {
+        "Phrase": "B22559E",
+        "Response": "Trip switch stuck on"
+    },
+    {
+        "Phrase": "B22609E",
+        "Response": "Start switch stuck on"
+    },
+    {
+        "Phrase": "B226181",
+        "Response": "Right turn signal invalid data recieved"
+    },
+    {
+        "Phrase": "B22619E",
+        "Response": "Right turn switch stuck on"
+    },
+    {
+        "Phrase": "B226281",
+        "Response": "Brake lever position RHCM invalid data received"
+    },
+    {
+        "Phrase": "B22629E",
+        "Response": "Front brake switch stuck on"
+    },
+    {
+        "Phrase": "B226381",
+        "Response": "Hazard switch error"
+    },
+    {
+        "Phrase": "B22639E",
+        "Response": "Hazard switch stuck on"
+    },
+    {
+        "Phrase": "B226881",
+        "Response": "Ride mode switch invalid data received"
+    },
+    {
+        "Phrase": "B22689E",
+        "Response": "Ride mode switch stuck on"
+    },
+    {
+        "Phrase": "B22699E",
+        "Response": "VR switch stuck on"
+    },
+    {
+        "Phrase": "B226A9E",
+        "Response": "Cruise set switch stuck on"
+    },
+    {
+        "Phrase": "B226B9E",
+        "Response": "Cruise resume switch stuck on"
+    },
+    {
+        "Phrase": "B226C9E",
+        "Response": "Cruise On switch stuck on"
+    },
+    {
+        "Phrase": "B226D9E",
+        "Response": "Cruise Off switch stuck on"
+    },
+    {
+        "Phrase": "B226E9E",
+        "Response": "LHCM navigation switch stuck on"
+    },
+    {
+        "Phrase": "B226F9E",
+        "Response": "RHCM navigation switch stuck on"
+    },
+    {
+        "Phrase": "B227008",
+        "Response": "BCM internal fault"
+    },
+    {
+        "Phrase": "B227042",
+        "Response": "BCM internal fault"
+    },
+    {
+        "Phrase": "B227043",
+        "Response": "BCM internal fault"
+    },
+    {
+        "Phrase": "B227046",
+        "Response": "BCM internal fault"
+    },
+    {
+        "Phrase": "B227049",
+        "Response": "BCM internal fault"
+    },
+    {
+        "Phrase": "B2271A2",
+        "Response": "System voltage low"
+    },
+    {
+        "Phrase": "B2271A3",
+        "Response": "System voltage high"
+    },
+    {
+        "Phrase": "B227400",
+        "Response": "Constant battery line error"
+    },
+    {
+        "Phrase": "B227711",
+        "Response": "Banking lamp output circuit shorted to ground"
+    },
+    {
+        "Phrase": "B227719",
+        "Response": "Banking lamp output circuit current above threshold"
+    },
+    {
+        "Phrase": "B227777",
+        "Response": "Banking lamp output bulb out or commanded position not reachable"
+    },
+    {
+        "Phrase": "B227794",
+        "Response": "Banking lamp output unexpected operation"
+    },
+    {
+        "Phrase": "B227856",
+        "Response": "Bank light configuration invalid"
+    },
+    {
+        "Phrase": "B227955",
+        "Response": "Tilt sensing configuration default"
+    },
+    {
+        "Phrase": "B228400",
+        "Response": "Rear brake state correlation"
+    },
+    {
+        "Phrase": "B228556",
+        "Response": "Rear brake configuration invalid"
+    },
+    {
+        "Phrase": "B228608",
+        "Response": "Rear brake rx bus signal/message failure"
+    },
+    {
+        "Phrase": "B228681",
+        "Response": "Rear brake rx invalid serial data received"
+    },
+    {
+        "Phrase": "B228700",
+        "Response": "Front brake state correlation"
+    },
+    {
+        "Phrase": "B228856",
+        "Response": "Front brake configuration invalid"
+    },
+    {
+        "Phrase": "B228908",
+        "Response": "Front brake Rx bus signal/message failure"
+    },
+    {
+        "Phrase": "B228981",
+        "Response": "Front brake Rx invalid data received"
+    },
+    {
+        "Phrase": "B229281",
+        "Response": "Traction control switch error"
+    },
+    {
+        "Phrase": "B22929E",
+        "Response": "RHCM traction control switch stuck on"
+    },
+    {
+        "Phrase": "B22939E",
+        "Response": "RHCM auxiliary switch stuck on"
+    },
+    {
+        "Phrase": "B22949E",
+        "Response": "LHCM auxiliary switch stuck on"
+    },
+    {
+        "Phrase": "B22959E",
+        "Response": "Information switch stuck on"
+    },
+    {
+        "Phrase": "B22969E",
+        "Response": "Heated grip switch stuck on"
+    },
+    {
+        "Phrase": "B229A9E",
+        "Response": "Spare/reserved switch stuck on"
+    },
+    {
+        "Phrase": "B231009",
+        "Response": "ABS/EHCU ride mode component failure"
+    },
+    {
+        "Phrase": "B231056",
+        "Response": "ABS/EHCU ride mode configuration invalid"
+    },
+    {
+        "Phrase": "B231062",
+        "Response": "ABS/EHCU ride mode signal compare failure"
+    },
+    {
+        "Phrase": "B23109A",
+        "Response": "ABS/EHCU ride mode change not allowed or system operating conditions"
+    },
+    {
+        "Phrase": "B231109",
+        "Response": "ABS/ECM ride mode component failure"
+    },
+    {
+        "Phrase": "B231156",
+        "Response": "ABS/ECM ride mode configuration invalid"
+    },
+    {
+        "Phrase": "B231162",
+        "Response": "ABS/ECM ride mode signal compare failure"
+    },
+    {
+        "Phrase": "B23119A",
+        "Response": "ABS/ECM ride mode change not allowed or system operating conditions"
+    },
+    {
+        "Phrase": "B231362",
+        "Response": "Ride mode signal compare failure"
+    },
+    {
+        "Phrase": "B231400",
+        "Response": "Traction control change timeout"
+    },
+    {
+        "Phrase": "B231509",
+        "Response": "Suspension ride mode component failure"
+    },
+    {
+        "Phrase": "B231556",
+        "Response": "Suspension ride mode configuration invalid"
+    },
+    {
+        "Phrase": "B231562",
+        "Response": "Suspension ride mode signal compare failure"
+    },
+    {
+        "Phrase": "B23159A",
+        "Response": "Suspension ride mode change not allowed or system operating conditions"
+    },
+    {
+        "Phrase": "B231600",
+        "Response": "Ride mode override fault"
+    },
+    {
+        "Phrase": "B231756",
+        "Response": "BCM ride mode configuration invalid"
+    },
+    {
+        "Phrase": "B233000",
+        "Response": "Charging system fault"
+    },
+    {
+        "Phrase": "B233300",
+        "Response": "ABS/EHCU acceleration data fault"
+    },
+    {
+        "Phrase": "C007700",
+        "Response": "Low tire pressure"
+    },
+    {
+        "Phrase": "C008300",
+        "Response": "TPMS indicator malfunction"
+    },
+    {
+        "Phrase": "C051CF0",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CF1",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CF2",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CF3",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CF4",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CF5",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CF6",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CF7",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CF8",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CF9",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CFA",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051CFB",
+        "Response": "Multi-axis acceleration sensor range/performance"
+    },
+    {
+        "Phrase": "C051D46",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051D56",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF0",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF1",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF2",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF3",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF4",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF5",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF6",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF7",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF8",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DF9",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DFA",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DFB",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DFC",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051DFD",
+        "Response": "Multi-axis acceleration sensor missing calibration"
+    },
+    {
+        "Phrase": "C051E08",
+        "Response": "Multi-axis acceleration sensor intermittent/erratic"
+    },
+    {
+        "Phrase": "C051E42",
+        "Response": "Multi-axis acceleration sensor intermittent/erratic"
+    },
+    {
+        "Phrase": "C051E44",
+        "Response": "Multi-axis acceleration sensor intermittent/erratic"
+    },
+    {
+        "Phrase": "C051E47",
+        "Response": "Multi-axis acceleration sensor intermittent/erratic"
+    },
+    {
+        "Phrase": "C052004",
+        "Response": "Multi-axis acceleration sensor internal failure"
+    },
+    {
+        "Phrase": "C052006",
+        "Response": "Multi-axis acceleration sensor internal failure"
+    },
+    {
+        "Phrase": "C052044",
+        "Response": "Multi-axis acceleration sensor internal failure"
+    },
+    {
+        "Phrase": "C052045",
+        "Response": "Multi-axis acceleration sensor internal failure"
+    },
+    {
+        "Phrase": "C052048",
+        "Response": "Multi-axis acceleration sensor internal failure"
+    },
+    {
+        "Phrase": "C052092",
+        "Response": "Multi-axis acceleration sensor internal failure"
+    },
+    {
+        "Phrase": "C056200",
+        "Response": "ABS/EHCU voltage low"
+    },
+    {
+        "Phrase": "C056300",
+        "Response": "ABS/EHCU voltage high"
+    },
+    {
+        "Phrase": "C0563FF",
+        "Response": "ABS/EHCU voltage high signal above critical threshold"
+    },
+    {
+        "Phrase": "C101400",
+        "Response": "ABS/EHCU relay error"
+    },
+    {
+        "Phrase": "C102100",
+        "Response": "ABS/EHCU front WSS always zero"
+    },
+    {
+        "Phrase": "C102300",
+        "Response": "ABS/EHCU rear/left rear WSS always zero"
+    },
+    {
+        "Phrase": "C102500",
+        "Response": "ABS/EHCU front wheel speed intermittent"
+    },
+    {
+        "Phrase": "C102700",
+        "Response": "ABS/EHCU rear/left rear wheel speed intermittent"
+    },
+    {
+        "Phrase": "C102900",
+        "Response": "ABS/EHCU wheel speed difference too high"
+    },
+    {
+        "Phrase": "C103200",
+        "Response": "ABS/EHCU front wheel speed circuit open/shorted"
+    },
+    {
+        "Phrase": "C103400",
+        "Response": "ABS/EHCU rear/left rear wheel speed circuit open/shorted"
+    },
+    {
+        "Phrase": "C104000",
+        "Response": "ABS/EHCU pump/motor error"
+    },
+    {
+        "Phrase": "C104125",
+        "Response": "IMU error/signal failure"
+    },
+    {
+        "Phrase": "C104129",
+        "Response": "IMU error/signal invalid"
+    },
+    {
+        "Phrase": "C10412A",
+        "Response": "IMU error/signal stuck in range"
+    },
+    {
+        "Phrase": "C10412F",
+        "Response": "IMU error/signal erratic"
+    },
+    {
+        "Phrase": "C104200",
+        "Response": "IMU mounting error"
+    },
+    {
+        "Phrase": "C105500",
+        "Response": "ABS/EHCU internal error"
+    },
+    {
+        "Phrase": "C106100",
+        "Response": "ABS/EHCU front apply solenoid circuit open/high resistance"
+    },
+    {
+        "Phrase": "C106200",
+        "Response": "ABS/EHCU front release solenoid circuit open/high resistance"
+    },
+    {
+        "Phrase": "C106500",
+        "Response": "ABS/EHCU rear/left rear apply solenoid circuit open/high resistance"
+    },
+    {
+        "Phrase": "C106600",
+        "Response": "ABS/EHCU rear/left rear release solenoid circuit open/high resistance"
+    },
+    {
+        "Phrase": "C107100",
+        "Response": "Rear prime valve error"
+    },
+    {
+        "Phrase": "C107200",
+        "Response": "Rear isolation valve error"
+    },
+    {
+        "Phrase": "C107300",
+        "Response": "Front isolation valve error"
+    },
+    {
+        "Phrase": "C107400",
+        "Response": "Front prime valve error"
+    },
+    {
+        "Phrase": "C107500",
+        "Response": "Front linked inlet valve error"
+    },
+    {
+        "Phrase": "C107600",
+        "Response": "Front linked outlet valve error"
+    },
+    {
+        "Phrase": "C107700",
+        "Response": "Front circuit pressure sensor error"
+    },
+    {
+        "Phrase": "C107800",
+        "Response": "Rear circuit pressure sensor error"
+    },
+    {
+        "Phrase": "C108100",
+        "Response": "Front master pressure sensor error"
+    },
+    {
+        "Phrase": "C108200",
+        "Response": "Front master pressure sensor offset error"
+    },
+    {
+        "Phrase": "C108300",
+        "Response": "Front wheel pressure sensor error"
+    },
+    {
+        "Phrase": "C108400",
+        "Response": "Front wheel pressure sensor offset error"
+    },
+    {
+        "Phrase": "C108500",
+        "Response": "Rear master pressure sensor error"
+    },
+    {
+        "Phrase": "C108600",
+        "Response": "Rear master pressure sensor offset error"
+    },
+    {
+        "Phrase": "C108700",
+        "Response": "Rear wheel pressure sensor error"
+    },
+    {
+        "Phrase": "C108800",
+        "Response": "Rear wheel pressure sensor offset error"
+    },
+    {
+        "Phrase": "C108900",
+        "Response": "Pressure sensor external supply error"
+    },
+    {
+        "Phrase": "C110000",
+        "Response": "Traction control fault indicated by ECM/VSC"
+    },
+    {
+        "Phrase": "C115900",
+        "Response": "ABS invalid stored VIN"
+    },
+    {
+        "Phrase": "C117800",
+        "Response": "ABS no VIN received from ECM/VSC"
+    },
+    {
+        "Phrase": "C118400",
+        "Response": "ABS invalid VIN from ECM/VSC"
+    },
+    {
+        "Phrase": "C119500",
+        "Response": "Wake up error"
+    },
+    {
+        "Phrase": "C121300",
+        "Response": "Front caliper pressure system fault"
+    },
+    {
+        "Phrase": "C121400",
+        "Response": "Rear caliper pressure system fault"
+    },
+    {
+        "Phrase": "C181014",
+        "Response": "Front preload piston position circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "C181064",
+        "Response": "Front preload piston position (+) signal plausibility failure"
+    },
+    {
+        "Phrase": "C181214",
+        "Response": "Rear preload piston position (+) circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "C181264",
+        "Response": "Rear preload piston position (+) signal plausibility failure"
+    },
+    {
+        "Phrase": "C181414",
+        "Response": "Front stroke position circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "C181464",
+        "Response": "Front stroke position (+) signal plausibility failure"
+    },
+    {
+        "Phrase": "C181614",
+        "Response": "Rear stroke position circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "C181664",
+        "Response": "Rear stroke position (+) signal plausibility failure"
+    },
+    {
+        "Phrase": "C181712",
+        "Response": "All stroke position circuit shorted to voltage"
+    },
+    {
+        "Phrase": "C181811",
+        "Response": "Front ARH control circuit shorted to ground"
+    },
+    {
+        "Phrase": "C181812",
+        "Response": "Front ARH control circuit shorted to voltage"
+    },
+    {
+        "Phrase": "C181813",
+        "Response": "Front ARH control circuit open"
+    },
+    {
+        "Phrase": "C181814",
+        "Response": "Front ARH control circuit short to ground/open"
+    },
+    {
+        "Phrase": "C181911",
+        "Response": "ARH solenoid power circuit shorted to ground"
+    },
+    {
+        "Phrase": "C181915",
+        "Response": "ARH solenoid power circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "C182011",
+        "Response": "Rear ARH control circuit shorted to ground"
+    },
+    {
+        "Phrase": "C182012",
+        "Response": "Rear ARH control circuit shorted to voltage"
+    },
+    {
+        "Phrase": "C182014",
+        "Response": "Rear ARH control circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "C182112",
+        "Response": "Front damping control circuit shorted to voltage"
+    },
+    {
+        "Phrase": "C182114",
+        "Response": "Front damping control circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "C182164",
+        "Response": "Front damping control signal plausibility failure"
+    },
+    {
+        "Phrase": "C182211",
+        "Response": "Damping solenoid power circuit shorted to ground"
+    },
+    {
+        "Phrase": "C182215",
+        "Response": "Damping solenoid power circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "C182312",
+        "Response": "Rear damping control circuit shorted to voltage"
+    },
+    {
+        "Phrase": "C182314",
+        "Response": "Rear damping control circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "C182364",
+        "Response": "Rear damping control signal plausibility failure"
+    },
+    {
+        "Phrase": "C200000",
+        "Response": "Front TPMS communication fault"
+    },
+    {
+        "Phrase": "C200100",
+        "Response": "Rear or right rear TPMS communication fault"
+    },
+    {
+        "Phrase": "C200316",
+        "Response": "Front TPMS fault circuit voltage below threshold"
+    },
+    {
+        "Phrase": "C200356",
+        "Response": "Front TPMS fault/invalid/incompatible configuration"
+    },
+    {
+        "Phrase": "C200398",
+        "Response": "Front TPMS fault component or system over temperature"
+    },
+    {
+        "Phrase": "C2003F1",
+        "Response": "Front TPMS fault/acceleration error"
+    },
+    {
+        "Phrase": "C2003F2",
+        "Response": "Front TPMS fault pressure error"
+    },
+    {
+        "Phrase": "C200416",
+        "Response": "Rear/Right rear TPMS fault circuit voltage below threshold"
+    },
+    {
+        "Phrase": "C200456",
+        "Response": "Rear/Right rear TPMS fault configuration invalid"
+    },
+    {
+        "Phrase": "C200498",
+        "Response": "Rear/Right rear TPMS fault component or system over temperature"
+    },
+    {
+        "Phrase": "C2004F1",
+        "Response": "Rear/Right rear TPMS fault acceleration error"
+    },
+    {
+        "Phrase": "C2004F2",
+        "Response": "Rear/Right rear TPMS fault pressure error"
+    },
+    {
+        "Phrase": "C200600",
+        "Response": "TPMS IDs not loaded"
+    },
+    {
+        "Phrase": "C200700",
+        "Response": "Low tire pressure thresholds not loaded"
+    },
+    {
+        "Phrase": "P001200",
+        "Response": "Camshaft front intake timing over-retarded"
+    },
+    {
+        "Phrase": "P001500",
+        "Response": "Camshaft front exhaust timing over-retarded"
+    },
+    {
+        "Phrase": "P001600",
+        "Response": "Camshaft front intake correlation error"
+    },
+    {
+        "Phrase": "P001700",
+        "Response": "Camshaft front exhaust correlation error"
+    },
+    {
+        "Phrase": "P001800",
+        "Response": "Camshaft rear intake correlation error"
+    },
+    {
+        "Phrase": "P001900",
+        "Response": "Camshaft rear exhaust correlation error"
+    },
+    {
+        "Phrase": "P002200",
+        "Response": "Camshaft rear intake timing over-retarded"
+    },
+    {
+        "Phrase": "P002500",
+        "Response": "Camshaft timing rear exhaust over-retarded"
+    },
+    {
+        "Phrase": "P002600",
+        "Response": "VVT control solenoid front intake circuit range/performance"
+    },
+    {
+        "Phrase": "P002700",
+        "Response": "VVT control solenoid front exhaust circuit range/performance"
+    },
+    {
+        "Phrase": "P002800",
+        "Response": "VVT control solenoid rear intake circuit range/performance"
+    },
+    {
+        "Phrase": "P002900",
+        "Response": "VVT control solenoid rear exhaust circuit range/performance"
+    },
+    {
+        "Phrase": "P003000",
+        "Response": "HO2S pre catalyst front cylinder heater control circuit open"
+    },
+    {
+        "Phrase": "P003100",
+        "Response": "HO2S pre catalyst front cylinder heater control circuit shorted to ground"
+    },
+    {
+        "Phrase": "P003200",
+        "Response": "HO2S pre catalyst front cylinder heater control circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P003600",
+        "Response": "HO2S post catalyst front cylinder heater control circuit open"
+    },
+    {
+        "Phrase": "P003700",
+        "Response": "HO2S post catalyst front cylinder heater control circuit shorted to ground"
+    },
+    {
+        "Phrase": "P003800",
+        "Response": "HO2S post catalyst front cylinder heater control circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P005000",
+        "Response": "HO2S pre catalyst rear cylinder heater control circuit open"
+    },
+    {
+        "Phrase": "P005100",
+        "Response": "HO2S pre catalyst rear cylinder heater control circuit shorted to ground"
+    },
+    {
+        "Phrase": "P005200",
+        "Response": "HO2S pre catalyst rear cylinder heater control circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P005300",
+        "Response": "HO2S pre catalyst front cylinder heater resistance"
+    },
+    {
+        "Phrase": "P005400",
+        "Response": "HO2S post catalyst front cylinder heater resistance"
+    },
+    {
+        "Phrase": "P005900",
+        "Response": "HO2S pre catalyst rear cylinder heater resistance"
+    },
+    {
+        "Phrase": "P007100",
+        "Response": "AAT sensor circuit range/performance"
+    },
+    {
+        "Phrase": "P007200",
+        "Response": "AAT sensor circuit shorted to ground"
+    },
+    {
+        "Phrase": "P007300",
+        "Response": "AAT sensor circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "P00D100",
+        "Response": "HO2S pre catalyst front cylinder heater control circuit performance"
+    },
+    {
+        "Phrase": "P00D200",
+        "Response": "HO2S post catalyst front cylinder heater control circuit performance"
+    },
+    {
+        "Phrase": "P00D300",
+        "Response": "HO2S pre catalyst rear cylinder heater control circuit performance"
+    },
+    {
+        "Phrase": "P00D400",
+        "Response": "HO2S post catalyst rear cylinder heater control circuit performance"
+    },
+    {
+        "Phrase": "P010600",
+        "Response": "MAP sensor circuit range/performance"
+    },
+    {
+        "Phrase": "P010700",
+        "Response": "MAP sensor failed low/open"
+    },
+    {
+        "Phrase": "P010800",
+        "Response": "MAP sensor failed high/open"
+    },
+    {
+        "Phrase": "P010900",
+        "Response": "MAP sensor circuit intermittent"
+    },
+    {
+        "Phrase": "P011100",
+        "Response": "IAT sensor circuit range/performance"
+    },
+    {
+        "Phrase": "P011200",
+        "Response": "IAT sensor circuit shorted to ground"
+    },
+    {
+        "Phrase": "P011300",
+        "Response": "IAT sensor circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "P011600",
+        "Response": "ECT sensor circuit range/performance"
+    },
+    {
+        "Phrase": "P011700",
+        "Response": "ECT sensor circuit shorted to ground"
+    },
+    {
+        "Phrase": "P011800",
+        "Response": "ECT sensor circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "P011900",
+        "Response": "ECT sensor circuit intermittent"
+    },
+    {
+        "Phrase": "P011B00",
+        "Response": "ECT - IAT sensor correlation error"
+    },
+    {
+        "Phrase": "P011E00",
+        "Response": "ECT - AAT sensor correlation error"
+    },
+    {
+        "Phrase": "P012000",
+        "Response": "TPS 1 range error"
+    },
+    {
+        "Phrase": "P012800",
+        "Response": "Coolant thermostat temperature below regulating temperature"
+    },
+    {
+        "Phrase": "P013100",
+        "Response": "HO2 sensor circuit low voltage - bank 1 sensor 1"
+    },
+    {
+        "Phrase": "P013200",
+        "Response": "HO2S pre catalyst front cylinder circuit high voltage"
+    },
+    {
+        "Phrase": "P013300",
+        "Response": "HO2S pre catalyst front cylinder circuit slow response"
+    },
+    {
+        "Phrase": "P013400",
+        "Response": "HO2S pre catalyst front cylinder circuit no activity detected"
+    },
+    {
+        "Phrase": "P013500",
+        "Response": "HO2 sensor heater circuit - bank 1 sensor 1"
+    },
+    {
+        "Phrase": "P013700",
+        "Response": "HO2S pre catalyst front cylinder circuit shorted to ground"
+    },
+    {
+        "Phrase": "P013800",
+        "Response": "HO2S post catalyst front cylinder circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P013A00",
+        "Response": "HO2S post catalyst front cylinder circuit slow response"
+    },
+    {
+        "Phrase": "P013B00",
+        "Response": "HO2S post catalyst front cylinder circuit slow response"
+    },
+    {
+        "Phrase": "P013C00",
+        "Response": "HO2S post catalyst rear cylinder circuit slow response"
+    },
+    {
+        "Phrase": "P013D00",
+        "Response": "HO2S post catalyst rear cylinder circuit slow response"
+    },
+    {
+        "Phrase": "P014000",
+        "Response": "HO2S post catalyst front cylinder circuit no activity detected"
+    },
+    {
+        "Phrase": "P014100",
+        "Response": "HO2S post catalyst front cylinder heater circuit"
+    },
+    {
+        "Phrase": "P015100",
+        "Response": "HO2S pre catalyst rear cylinder circuit low voltage"
+    },
+    {
+        "Phrase": "P015200",
+        "Response": "HO2S pre catalyst rear cylinder circuit high voltage"
+    },
+    {
+        "Phrase": "P015300",
+        "Response": "HO2S pre catalyst rear cylinder circuit slow response"
+    },
+    {
+        "Phrase": "P015400",
+        "Response": "HO2S pre catalyst rear cylinder circuit no activity detected"
+    },
+    {
+        "Phrase": "P015500",
+        "Response": "HO2S pre catalyst rear cylinder heater circuit"
+    },
+    {
+        "Phrase": "P015700",
+        "Response": "HO2S post catalyst rear cylinder circuit low voltage"
+    },
+    {
+        "Phrase": "P015800",
+        "Response": "HO2S post catalyst rear cylinder circuit high voltage"
+    },
+    {
+        "Phrase": "P016000",
+        "Response": "HO2S post catalyst rear cylinder circuit no activity detected"
+    },
+    {
+        "Phrase": "P016100",
+        "Response": "HO2S post catalyst rear cylinder heater circuit"
+    },
+    {
+        "Phrase": "P022000",
+        "Response": "TPS 2 range error"
+    },
+    {
+        "Phrase": "P022200",
+        "Response": "TPS 2 circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "P022300",
+        "Response": "TPS 2 circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P026100",
+        "Response": "Fuel injector front cylinder circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "P026200",
+        "Response": "Fuel injector front cylinder shorted to voltage"
+    },
+    {
+        "Phrase": "P026400",
+        "Response": "Fuel injector rear cylinder circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "P026500",
+        "Response": "Fuel injector rear cylinder shorted to voltage"
+    },
+    {
+        "Phrase": "P030000",
+        "Response": "Random/multiple cylinder misfire detected"
+    },
+    {
+        "Phrase": "P030100",
+        "Response": "Front cylinder misfire detected"
+    },
+    {
+        "Phrase": "P030200",
+        "Response": "Rear cylinder misfire detected"
+    },
+    {
+        "Phrase": "P032500",
+        "Response": "Knock sensor front or single circuit open"
+    },
+    {
+        "Phrase": "P032700",
+        "Response": "Knock sensor front or single circuit shorted to ground"
+    },
+    {
+        "Phrase": "P032800",
+        "Response": "Knock sensor front or single circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P034100",
+        "Response": "Camshaft position sensor front intake circuit range/performance"
+    },
+    {
+        "Phrase": "P034600",
+        "Response": "Camshaft position sensor rear intake circuit range/performance"
+    },
+    {
+        "Phrase": "P036600",
+        "Response": "Camshaft position sensor front exhaust circuit range/performance"
+    },
+    {
+        "Phrase": "P037100",
+        "Response": "CKP sensor wrong number of pulses"
+    },
+    {
+        "Phrase": "P037400",
+        "Response": "CKP sensor no pulses"
+    },
+    {
+        "Phrase": "P039100",
+        "Response": "Camshaft position sensor rear exhaust circuit range/performance"
+    },
+    {
+        "Phrase": "P042000",
+        "Response": "Catalyst system efficiency front cylinder below threshold"
+    },
+    {
+        "Phrase": "P043000",
+        "Response": "Catalyst system efficiency rear cylinder below threshold"
+    },
+    {
+        "Phrase": "P044400",
+        "Response": "Purge solenoid circuit shorted to ground"
+    },
+    {
+        "Phrase": "P044500",
+        "Response": "Purge solenoid circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P046200",
+        "Response": "Fuel sender circuit shorted to ground"
+    },
+    {
+        "Phrase": "P046300",
+        "Response": "Fuel sender shorted circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P050500",
+        "Response": "Idle speed control unstable"
+    },
+    {
+        "Phrase": "P050600",
+        "Response": "Idle speed control RPM too low"
+    },
+    {
+        "Phrase": "P050700",
+        "Response": "Idle speed control RPM too high"
+    },
+    {
+        "Phrase": "P052200",
+        "Response": "Engine oil pressure sensor circuit shorted to ground"
+    },
+    {
+        "Phrase": "P052300",
+        "Response": "Engine oil pressure sensor circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P056000",
+        "Response": "Powertrain voltage low"
+    },
+    {
+        "Phrase": "P056200",
+        "Response": "System voltage low"
+    },
+    {
+        "Phrase": "P056300",
+        "Response": "System voltage high"
+    },
+    {
+        "Phrase": "P057200",
+        "Response": "Brake switch shorted to ground"
+    },
+    {
+        "Phrase": "P057700",
+        "Response": "Cruise control input error"
+    },
+    {
+        "Phrase": "P060200",
+        "Response": "ECM programming error"
+    },
+    {
+        "Phrase": "P060300",
+        "Response": "ECM EEPROM memory error"
+    },
+    {
+        "Phrase": "P060400",
+        "Response": "ECM memory error"
+    },
+    {
+        "Phrase": "P060500",
+        "Response": "ECM memory error"
+    },
+    {
+        "Phrase": "P060600",
+        "Response": "ECM memory error"
+    },
+    {
+        "Phrase": "P060700",
+        "Response": "ECM performance error"
+    },
+    {
+        "Phrase": "P060B00",
+        "Response": "ECM performance error"
+    },
+    {
+        "Phrase": "P060C00",
+        "Response": "ECM performance error"
+    },
+    {
+        "Phrase": "P06B800",
+        "Response": "ECM memory error"
+    },
+    {
+        "Phrase": "P063000",
+        "Response": "VIN not programmed or incompatible ECM/PCM"
+    },
+    {
+        "Phrase": "P064100",
+        "Response": "5 Volt reference out of range"
+    },
+    {
+        "Phrase": "P065100",
+        "Response": "5 Volt reference 2 out of range"
+    },
+    {
+        "Phrase": "P070400",
+        "Response": "Clutch switch input circuit"
+    },
+    {
+        "Phrase": "P073000",
+        "Response": "Incorrect gear ratio"
+    },
+    {
+        "Phrase": "P091500",
+        "Response": "Gear shift position circuit \"A\" range/performance"
+    },
+    {
+        "Phrase": "P091600",
+        "Response": "Gear shift position circuit shorted to ground"
+    },
+    {
+        "Phrase": "P091700",
+        "Response": "Gear shift position circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P100900",
+        "Response": "ECM internal error"
+    },
+    {
+        "Phrase": "P101900",
+        "Response": "ECT high temp"
+    },
+    {
+        "Phrase": "P110000",
+        "Response": "ABS/EHCU indicates torque control fault"
+    },
+    {
+        "Phrase": "P110200",
+        "Response": "ABS/EHCU indicates FWSS fault"
+    },
+    {
+        "Phrase": "P110300",
+        "Response": "ABS/EHCU indicates rear/right rear WSS fault"
+    },
+    {
+        "Phrase": "P110400",
+        "Response": "ABS/EHCU indicates RWSS fault"
+    },
+    {
+        "Phrase": "P110800",
+        "Response": "ABS/EHCU front WSS missing data"
+    },
+    {
+        "Phrase": "P110900",
+        "Response": "ABS/EHCU rear/right rear WSS missing data"
+    },
+    {
+        "Phrase": "P111000",
+        "Response": "ABS/EHCU left rear WSS missing data"
+    },
+    {
+        "Phrase": "P127000",
+        "Response": "TGS 2 A/D validation error"
+    },
+    {
+        "Phrase": "P135300",
+        "Response": "No combustion detected front cylinder"
+    },
+    {
+        "Phrase": "P135600",
+        "Response": "No combustion detected rear cylinder"
+    },
+    {
+        "Phrase": "P135800",
+        "Response": "Intermittent secondary detected rear cylinder"
+    },
+    {
+        "Phrase": "P150100",
+        "Response": "JSS circuit shorted to ground"
+    },
+    {
+        "Phrase": "P150200",
+        "Response": "JSS circuit shorted to voltage/open"
+    },
+    {
+        "Phrase": "P151000",
+        "Response": "ETC limited performance mode"
+    },
+    {
+        "Phrase": "P151100",
+        "Response": "ETC power management mode"
+    },
+    {
+        "Phrase": "P151200",
+        "Response": "ETC forced idle mode"
+    },
+    {
+        "Phrase": "P151400",
+        "Response": "ETC airflow error"
+    },
+    {
+        "Phrase": "P160000",
+        "Response": "ETC watchdog error"
+    },
+    {
+        "Phrase": "P160800",
+        "Response": "Loss of continuous battery"
+    },
+    {
+        "Phrase": "P163200",
+        "Response": "Odometer learned up"
+    },
+    {
+        "Phrase": "P169100",
+        "Response": "Cooling fan left circuit shorted to ground"
+    },
+    {
+        "Phrase": "P169200",
+        "Response": "Cooling fan left circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P178500",
+        "Response": "VVT control solenoid front intake circuit open"
+    },
+    {
+        "Phrase": "P178600",
+        "Response": "VVT control solenoid front intake circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P178700",
+        "Response": "VVT control solenoid front intake circuit shorted to ground"
+    },
+    {
+        "Phrase": "P179000",
+        "Response": "VVT control solenoid front exhaust circuit open"
+    },
+    {
+        "Phrase": "P179100",
+        "Response": "VVT control solenoid front exhaust circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P179200",
+        "Response": "VVT control solenoid front exhaust circuit shorted to ground"
+    },
+    {
+        "Phrase": "P179500",
+        "Response": "VVT control solenoid rear intake circuit open"
+    },
+    {
+        "Phrase": "P179600",
+        "Response": "VVT control solenoid rear intake circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P179700",
+        "Response": "VVT control solenoid rear intake circuit shorted to ground"
+    },
+    {
+        "Phrase": "P180000",
+        "Response": "VVT control solenoid rear exhaust circuit open"
+    },
+    {
+        "Phrase": "P180100",
+        "Response": "VVT control solenoid rear exhaust circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P180200",
+        "Response": "VVT control solenoid rear exhaust circuit shorted to ground"
+    },
+    {
+        "Phrase": "P210000",
+        "Response": "ETC driver circuit open"
+    },
+    {
+        "Phrase": "P210100",
+        "Response": "ETC actuation error"
+    },
+    {
+        "Phrase": "P210200",
+        "Response": "ETC driver circuit shorted to ground"
+    },
+    {
+        "Phrase": "P210300",
+        "Response": "ETC driver circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P210500",
+        "Response": "ETC forced shutdown mode"
+    },
+    {
+        "Phrase": "P210700",
+        "Response": "ETC driver internal error"
+    },
+    {
+        "Phrase": "P211900",
+        "Response": "ETC actuator return error"
+    },
+    {
+        "Phrase": "P212100",
+        "Response": "TPS circuit range/performance"
+    },
+    {
+        "Phrase": "P212200",
+        "Response": "TGS 1 circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "P212300",
+        "Response": "TGS 1 circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P212400",
+        "Response": "TGS 1 circuit intermittent"
+    },
+    {
+        "Phrase": "P212700",
+        "Response": "TGS 2 circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "P212800",
+        "Response": "TGS 2 circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P212900",
+        "Response": "TGS 2 circuit intermittent"
+    },
+    {
+        "Phrase": "P213500",
+        "Response": "TPS A/B voltage correlation"
+    },
+    {
+        "Phrase": "P213800",
+        "Response": "TGS correlation error"
+    },
+    {
+        "Phrase": "P214600",
+        "Response": "Fuel injector front supply voltage circuit/open"
+    },
+    {
+        "Phrase": "P214900",
+        "Response": "Fuel injector rear supply voltage circuit/open"
+    },
+    {
+        "Phrase": "P217600",
+        "Response": "ETC zero position learning error"
+    },
+    {
+        "Phrase": "P219500",
+        "Response": "O2S pre catalyst front cylinder signal lean"
+    },
+    {
+        "Phrase": "P219600",
+        "Response": "O2S pre catalyst front cylinder signal rich"
+    },
+    {
+        "Phrase": "P219700",
+        "Response": "O2S pre catalyst rear cylinder signal lean"
+    },
+    {
+        "Phrase": "P219800",
+        "Response": "O2S pre catalyst rear cylinder signal rich"
+    },
+    {
+        "Phrase": "P227000",
+        "Response": "O2S post catalyst front cylinder signal lean"
+    },
+    {
+        "Phrase": "P227100",
+        "Response": "O2S post catalyst front cylinder signal rich"
+    },
+    {
+        "Phrase": "P227200",
+        "Response": "O2S post catalyst rear cylinder signal lean"
+    },
+    {
+        "Phrase": "P227300",
+        "Response": "O2S post catalyst rear cylinder signal rich"
+    },
+    {
+        "Phrase": "P227900",
+        "Response": "Intake air leak"
+    },
+    {
+        "Phrase": "P230000",
+        "Response": "Ignition coil driver front circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "P230100",
+        "Response": "Ignition coil driver front circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P230300",
+        "Response": "Ignition coil driver rear circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "P230400",
+        "Response": "Ignition coil driver rear circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P230600",
+        "Response": "Aux ignition coil driver front circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "P230700",
+        "Response": "Aux ignition coil driver front circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P230900",
+        "Response": "Aux ignition coil driver rear circuit shorted to ground/open"
+    },
+    {
+        "Phrase": "P231000",
+        "Response": "Aux ignition coil driver rear circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P2A0B00",
+        "Response": "MAP sensor rear circuit range/performance"
+    },
+    {
+        "Phrase": "P2A0C00",
+        "Response": "MAP sensor rear circuit shorted to ground"
+    },
+    {
+        "Phrase": "P2A0D00",
+        "Response": "MAP sensor rear circuit shorted to voltage"
+    },
+    {
+        "Phrase": "P2A0E00",
+        "Response": "MAP sensor rear circuit intermittent/erratic"
+    },
+    {
+        "Phrase": "U000100",
+        "Response": "CAN bus error"
+    },
+    {
+        "Phrase": "U000188",
+        "Response": "CAN bus error"
+    },
+    {
+        "Phrase": "U000189",
+        "Response": "CAN bus error"
+    },
+    {
+        "Phrase": "U000200",
+        "Response": "CAN bus error"
+    },
+    {
+        "Phrase": "U000300",
+        "Response": "ABS/EHCU internal fault"
+    },
+    {
+        "Phrase": "U002888",
+        "Response": "CAN bus error, primary"
+    },
+    {
+        "Phrase": "U003788",
+        "Response": "CAN bus error, secondary"
+    },
+    {
+        "Phrase": "U010000",
+        "Response": "Lost communication with ECM/VSC"
+    },
+    {
+        "Phrase": "U010001",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U010002",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U010003",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U010004",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U010005",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U010081",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U0100F0",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U0100F1",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U0100F2",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U0100F3",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U0100F6",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U0100F7",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U0100F8",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U0100FD",
+        "Response": "Lost communication with ECM"
+    },
+    {
+        "Phrase": "U012100",
+        "Response": "Lost communication with ABS/EHCU"
+    },
+    {
+        "Phrase": "U012500",
+        "Response": "Lost communication with IMU"
+    },
+    {
+        "Phrase": "U012581",
+        "Response": "Lost communication with IMU"
+    },
+    {
+        "Phrase": "U0125F0",
+        "Response": "Lost communication with IMU"
+    },
+    {
+        "Phrase": "U0125F1",
+        "Response": "Lost communication with IMU"
+    },
+    {
+        "Phrase": "U0125F2",
+        "Response": "Lost communication with IMU"
+    },
+    {
+        "Phrase": "U014000",
+        "Response": "Lost communication with BCM"
+    },
+    {
+        "Phrase": "U014081",
+        "Response": "Lost communication with BCM"
+    },
+    {
+        "Phrase": "U014100",
+        "Response": "Lost communication with LHCM"
+    },
+    {
+        "Phrase": "U014181",
+        "Response": "Lost communication with LHCM"
+    },
+    {
+        "Phrase": "U014200",
+        "Response": "Lost communication with RHCM"
+    },
+    {
+        "Phrase": "U014262",
+        "Response": "Lost communication with RHCM"
+    },
+    {
+        "Phrase": "U014281",
+        "Response": "Lost communication with RHCM"
+    },
+    {
+        "Phrase": "U015600",
+        "Response": "Lost communication with inst 1"
+    },
+    {
+        "Phrase": "U015601",
+        "Response": "Lost communication with inst 1"
+    },
+    {
+        "Phrase": "U015602",
+        "Response": "Lost communication with inst 1"
+    },
+    {
+        "Phrase": "U015603",
+        "Response": "Lost communication with inst 1"
+    },
+    {
+        "Phrase": "U015681",
+        "Response": "Lost communication with inst 1"
+    },
+    {
+        "Phrase": "U018200",
+        "Response": "Lost communication with banking lamp"
+    },
+    {
+        "Phrase": "U030000",
+        "Response": "Module software incompatibility"
+    },
+    {
+        "Phrase": "U031500",
+        "Response": "Software incompatibility with ABS/EHCU"
+    },
+    {
+        "Phrase": "U040000",
+        "Response": "Invalid data received"
+    },
+    {
+        "Phrase": "U040100",
+        "Response": "Invalid data from ECM/VSC"
+    },
+    {
+        "Phrase": "U040164",
+        "Response": "Invalid data from ECM"
+    },
+    {
+        "Phrase": "U040167",
+        "Response": "Invalid data from ECM"
+    },
+    {
+        "Phrase": "U040181",
+        "Response": "Invalid data from ECM"
+    },
+    {
+        "Phrase": "U040182",
+        "Response": "Invalid data from ECM"
+    },
+    {
+        "Phrase": "U040183",
+        "Response": "Invalid data from ECM"
+    },
+    {
+        "Phrase": "U04018F",
+        "Response": "Invalid data from ECM"
+    },
+    {
+        "Phrase": "U041564",
+        "Response": "Invalid data from ABS/EHCU"
+    },
+    {
+        "Phrase": "U041567",
+        "Response": "Invalid data from ABS/EHCU"
+    },
+    {
+        "Phrase": "U041581",
+        "Response": "Invalid data from ABS/EHCU"
+    },
+    {
+        "Phrase": "U041582",
+        "Response": "Invalid data from ABS/EHCU"
+    },
+    {
+        "Phrase": "U041583",
+        "Response": "Invalid data from ABS/EHCU"
+    },
+    {
+        "Phrase": "U04158F",
+        "Response": "Invalid data from ABS/EHCU"
+    },
+    {
+        "Phrase": "U042200",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U042264",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U042267",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U042281",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U042282",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U042283",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U04228F",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U043100",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U043164",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U043167",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U043181",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U043182",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U043183",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U043187",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U04318F",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U043200",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U043264",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U043267",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U043282",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U043283",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U04328F",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U0432F0",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U0432F1",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U0432F2",
+        "Response": "Invalid data from IMU"
+    },
+    {
+        "Phrase": "U044300",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U044367",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U044381",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U044382",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U044383",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U044387",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U04438F",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U045767",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U045781",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U045782",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U045783",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U04578F",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U048303",
+        "Response": "Banking lamp LIN bus invalid data received"
+    },
+    {
+        "Phrase": "U048356",
+        "Response": "Banking lamp LIN bus invalid data received"
+    },
+    {
+        "Phrase": "U048381",
+        "Response": "Banking lamp LIN bus invalid data received"
+    },
+    {
+        "Phrase": "U100000",
+        "Response": "IMU Vehicle learn failure"
+    },
+    {
+        "Phrase": "U100188",
+        "Response": "LIN bus error"
+    },
+    {
+        "Phrase": "U142100",
+        "Response": "Invalid TIP signal"
+    },
+    {
+        "Phrase": "U143181",
+        "Response": "Invalid data from lighting switch"
+    },
+    {
+        "Phrase": "U206400",
+        "Response": "ABS/EHCU internal fault"
+    },
+    {
+        "Phrase": "U206700",
+        "Response": "ABS/EHCU internal fault"
+    },
+    {
+        "Phrase": "U208200",
+        "Response": "ABS/EHCU internal fault"
+    },
+    {
+        "Phrase": "U208300",
+        "Response": "ABS/EHCU internal fault"
+    },
+    {
+        "Phrase": "U208700",
+        "Response": "ABS/EHCU internal fault"
+    },
+    {
+        "Phrase": "U208F00",
+        "Response": "ABS/EHCU internal fault"
+    },
+    {
+        "Phrase": "U216400",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U216700",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U218100",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U218200",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U218300",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U218700",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U218F00",
+        "Response": "Invalid data from LHCM"
+    },
+    {
+        "Phrase": "U226400",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U226700",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U228100",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U228200",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U228300",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U228700",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U228F00",
+        "Response": "Invalid data from BCM"
+    },
+    {
+        "Phrase": "U236400",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U236700",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U238100",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U238200",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U238300",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U238700",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U238F00",
+        "Response": "Invalid data from RHCM"
+    },
+    {
+        "Phrase": "U246400",
+        "Response": "Invalid data received from instrument"
+    },
+    {
+        "Phrase": "U246700",
+        "Response": "Invalid data received from instrument"
+    },
+    {
+        "Phrase": "U248100",
+        "Response": "Invalid data received from instrument"
+    },
+    {
+        "Phrase": "U248200",
+        "Response": "Invalid data received from instrument"
+    },
+    {
+        "Phrase": "U248300",
+        "Response": "Invalid data received from instrument"
+    },
+    {
+        "Phrase": "U248F00",
+        "Response": "Invalid data received from instrument"
+    },
+    {
+        "Phrase": "U301242",
+        "Response": "IMU internal fault"
+    },
+    {
+        "Phrase": "U301244",
+        "Response": "IMU internal fault"
+    },
+    {
+        "Phrase": "U301245",
+        "Response": "IMU internal fault"
+    },
+    {
+        "Phrase": "U301247",
+        "Response": "IMU internal fault"
+    },
+    {
+        "Phrase": "U301251",
+        "Response": "IMU internal fault"
+    },
+    {
+        "Phrase": "U301257",
+        "Response": "IMU internal fault"
+    },
+    {
+        "Phrase": "U351000",
+        "Response": "ECM calibration error"
+    }
+]
