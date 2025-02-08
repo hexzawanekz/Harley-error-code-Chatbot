@@ -1,4 +1,4 @@
-# LINE Error Code Bot
+# Harley Davidson Error Code for Line Chatbot
 
 A LINE messaging bot that helps users identify and understand error codes through text matching and image recognition capabilities. Built with Node.js and Firebase Functions.
 
